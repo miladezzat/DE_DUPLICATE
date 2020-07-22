@@ -1,0 +1,31 @@
+{
+    "name": "de_duplicated",
+    "version": "1.0.5",
+    "description": "this is a package to delete the duplicated elements in array",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha tests/*.*"
+    },
+    "keywords": [
+        "nodejs",
+        "duplicate",
+        "elements",
+        "javaScript",
+        "Array"
+    ],
+    "author": "Milad E. Fahmy",
+    "license": "ISC",
+    "directories": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/miladezzat/DE_DUPLICATE.git"
+    },
+    "bugs": {
+        "url": "https://github.com/miladezzat/DE_DUPLICATE/issues"
+    },
+    "homepage": "https://github.com/miladezzat/DE_DUPLICATE#readme",
+    "dependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^6.2.2"
+    }
+}
